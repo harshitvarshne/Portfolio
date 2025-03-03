@@ -37,7 +37,7 @@ ScrollReveal().reveal('.about-content, .serv, .portfolio-box, .contact',{origin:
 
 
 var typed = new Typed('.multiple-text', {
-    strings: ['AI & ML Developer', 'Frontend Developer','Python Developer'],
+    strings: ['AI ML Developer', 'Frontend Developer','Python Developer','SQL and Data'],
     typeSpeed: 50,
     loop: true,
     backspeed: 50,
